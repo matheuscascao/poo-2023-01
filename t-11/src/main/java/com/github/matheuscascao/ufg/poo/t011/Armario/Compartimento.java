@@ -1,8 +1,10 @@
 package com.github.matheuscascao.ufg.poo.t011.Armario;
 
+import java.util.ArrayList;
+
 public class Compartimento {
-    private List<Livro> livros;
-    private List<CD> cds;
+    private ArrayList<Livro> livros;
+    private ArrayList<CD> cds;
 
     public Compartimento() {
         livros = new ArrayList<>();

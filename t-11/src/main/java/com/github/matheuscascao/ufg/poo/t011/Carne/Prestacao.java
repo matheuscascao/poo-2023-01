@@ -1,6 +1,7 @@
 package com.github.matheuscascao.ufg.poo.t011.Carne;
+import java.util.Date;
 
 public class Prestacao {
-    Datetime data;
+    Date data;
     Float valor;
 }
