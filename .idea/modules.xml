@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/t-07/exemplo.iml" filepath="$PROJECT_DIR$/t-07/exemplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/poo-2023-01.iml" filepath="$PROJECT_DIR$/.idea/poo-2023-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/t-08/src/main/java/com/github/matheuscascao/ufg/poo/t08/t08.iml" filepath="$PROJECT_DIR$/t-08/src/main/java/com/github/matheuscascao/ufg/poo/t08/t08.iml" />
+    </modules>
+  </component>
+</project>
